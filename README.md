@@ -8,5 +8,5 @@ The DFT is primary tool in digital signal processing. So, we will see how it wor
 
 - In the end I plotted the DFT in Frequency Domain and extract the relationship between the DFT and SNR.
 
-By BENSEDDIK El Mehdi
+By BENSEDDIK El Mehdi\
 03/04/2019
