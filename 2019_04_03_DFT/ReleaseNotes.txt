@@ -1,0 +1,14 @@
+Discrete Fourier Transform :
+
+I-	Create Signal with multiple frequencies
+
+II-	Add noise to our Signal
+
+III-	Compute the DFT of the noisy Signal
+
+IV-	Relationship between SNR and DFT
+
+
+By BENSEDDIK El Mehdi
+
+03/04/2019
